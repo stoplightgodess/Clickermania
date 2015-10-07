@@ -1,0 +1,2 @@
+# Clickermania
+My clickers
